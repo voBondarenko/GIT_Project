@@ -1,0 +1,1 @@
+This project is first project, to test GIT technology
